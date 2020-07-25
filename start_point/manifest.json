@@ -1,5 +1,5 @@
 {
-  "image_name": "cyberdojofoundation/gpp_assert:97d68e8",
+  "image_name": "cyberdojofoundation/gpp_assert:08f19a9",
   "display_name": "C++ (g++), assert",
   "visible_filenames": [
     "hiker.tests.cpp",
