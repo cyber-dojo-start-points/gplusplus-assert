@@ -1,6 +1,6 @@
 CXXFLAGS += -I.
 CXXFLAGS += -std=c++2a
-CXXFLAGS += -Wall -Wextra
+CXXFLAGS += -Wall -Wextra -pthread
 CXXFLAGS += -fprofile-arcs -ftest-coverage
 
 HPP_FILES = $(wildcard *.hpp)
