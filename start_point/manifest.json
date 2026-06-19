@@ -1,6 +1,14 @@
 {
   "image_name": "ghcr.io/cyber-dojo-languages/gpp_assert:711b66e",
   "display_name": "C++ (g++ 15.2.0), assert",
+  "language": [
+    "C++ (g++)",
+    "15.2.0"
+  ],
+  "test_framework": [
+    "assert",
+    ""
+  ],
   "visible_filenames": [
     "hiker.tests.cpp",
     "hiker.cpp",
