@@ -1,4 +1,4 @@
-[![Github Action (master)](https://github.com/cyber-dojo-start-points/gplusplus-assert/actions/workflows/main.yml/badge.svg)](https://github.com/cyber-dojo-start-points/gplusplus-assert/actions)
+[![GitHub CI](../../actions/workflows/main.yml/badge.svg)](../../actions/workflows/main.yml)
 
 ### display_name="C++ (g++ 15.2.0), assert"
 ### image_name="[ghcr.io/cyber-dojo-languages/gpp_assert](https://ghcr.io/cyber-dojo-languages/gpp_assert)"
