@@ -1,0 +1,7 @@
+{
+  "matches": [ "error: 'ansewr' was not declared in this scope" ],
+  "match_counts": {
+    ": Assertion `.*' failed\\.$": 0,
+    "^All tests passed$": 0
+  }
+}

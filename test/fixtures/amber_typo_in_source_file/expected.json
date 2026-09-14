@@ -1,0 +1,4 @@
+{
+  "matches": [ "^hiker\\.cpp:5:5: error: 'retrun' was not declared in this scope$" ],
+  "max_output_lines": 12
+}
